@@ -1,4 +1,4 @@
-**# CSharp12**<h1 align="center">CSharp 12</h1>
+<h1 align="center">CSharp 12</h1>
 
 <p align="center">
   <i>Every New Feature Added in C# 12.</i>
