@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryConstructors", "Prim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionExpressions", "CollectionExpressions\CollectionExpressions.csproj", "{10163C8A-E9FE-448E-921B-95454A2E16D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefReadonlyParameters", "RefReadonlyParameters\RefReadonlyParameters.csproj", "{C18E5E5C-AED7-4427-9331-DB039BDB18C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{10163C8A-E9FE-448E-921B-95454A2E16D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10163C8A-E9FE-448E-921B-95454A2E16D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10163C8A-E9FE-448E-921B-95454A2E16D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18E5E5C-AED7-4427-9331-DB039BDB18C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18E5E5C-AED7-4427-9331-DB039BDB18C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18E5E5C-AED7-4427-9331-DB039BDB18C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18E5E5C-AED7-4427-9331-DB039BDB18C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

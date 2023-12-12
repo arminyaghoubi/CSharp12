@@ -1,6 +1,6 @@
 ﻿namespace PrimaryConstructors;
 
-public class Book(string Title, string ISBN, string AuthorName, decimal Price)
+internal class Book(string Title, string ISBN, string AuthorName, decimal Price)
 {
     public override string ToString()
     {
